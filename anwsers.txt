@@ -1,0 +1,4 @@
+11 commits
+March 20
+Author: Stopa
+Added local configuartion data
